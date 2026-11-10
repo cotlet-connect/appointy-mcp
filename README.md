@@ -105,6 +105,7 @@ Appointy has no official MCP server and no official app in ChatGPT or Claude (ch
 
 - [Appointy on Cotlet.dev](https://cotlet.dev/integrations/appointy-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=appointy&utm_content=find)
 - [PyPI package appointy-mcp](https://pypi.org/project/appointy-mcp/)
+- [Odel](https://odel.app/modules/cotlet/appointy)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-appointy-to-ai-agents-guide)
 
 ## Also works with
